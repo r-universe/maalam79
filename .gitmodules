@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "RKUM"]
+	path = RKUM
+	url = https://github.com/cran/RKUM
+	shallow = true
+	registered = true
